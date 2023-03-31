@@ -1,0 +1,7 @@
+1.String slicing operations
+2.Prime no.s within a given range
+3.to sum the series: 1/2²+2/3³+3/4⁴
+4. WAP that prompts user to enter number the process will continue until user enters -1.
+    Finally the program print the count of prime & composite number.
+
+5. All Patterns

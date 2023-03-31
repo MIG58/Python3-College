@@ -1,0 +1,8 @@
+*LAB 2 3/13/2023*
+
+6. WAP to enter a number and find its Hexa and Octal equivalent.
+7. Area of a triangle using Hirons formula.
+8. Find the distance between 2 points.
+9. Convert the given time into hour/minute/seconds. (The input is taken as seconds 8523 - hh:mm:ss)
+10. Find the factorial of the given number from 1 to 5.
+11. Calculate the sumation of the number of the given range r1 and r2.

@@ -1,0 +1,6 @@
+1. WAP to check no. is positive or negative.
+2. WAP to find the maximum of 3 numbers.
+3. WAP to swap 2 variables without using 3rd variable.
+4. WAP to check year is Leap year or not.
+5. Calculate the total amount with given principle and rate of interest.
+6. Find the average of the marks obtained in 5 subjects.
